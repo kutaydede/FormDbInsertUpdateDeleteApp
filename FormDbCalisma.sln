@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormDbCalisma", "FormDbCalisma.csproj", "{C00A01AC-7434-497F-AC8B-9D0B7DD6079D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkulApp.MODEL", "..\OkulApp.MODEL\OkulApp.MODEL.csproj", "{40D2DCB6-E5DC-49A2-9E89-DD602E657D8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C00A01AC-7434-497F-AC8B-9D0B7DD6079D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00A01AC-7434-497F-AC8B-9D0B7DD6079D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00A01AC-7434-497F-AC8B-9D0B7DD6079D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00A01AC-7434-497F-AC8B-9D0B7DD6079D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D2DCB6-E5DC-49A2-9E89-DD602E657D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D2DCB6-E5DC-49A2-9E89-DD602E657D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D2DCB6-E5DC-49A2-9E89-DD602E657D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D2DCB6-E5DC-49A2-9E89-DD602E657D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23515FA3-FA20-424C-9B50-64E91A212ABF}
+	EndGlobalSection
+EndGlobal
